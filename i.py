@@ -1,0 +1,1 @@
+print('ola este projeto ensina voce  usar o git')
